@@ -1,0 +1,24 @@
+{
+  "name": "lazyload",
+  "version": "1.1.0",
+  "description": "lazyload orking\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dw\u001b[C\u001b[Dorking demo file",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "bower install",
+    "prestart": "npm install",
+    "start": "http-server -a 127.0.0.1 -p 8007 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekVG/lazyload.git"
+  },
+  "author": "AbhishekVG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekVG/lazyload/issues"
+  },
+  "homepage": "https://github.com/AbhishekVG/lazyload#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "lazyload",
+  "description": "lazyload orking\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dw\u001b[C\u001b[Dorking demo file",
+  "main": "index.js",
+  "authors": [
+    "AbhishekVG"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AbhishekVG/lazyload",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "oclazyload": "^1.1.0",
+    "angular": "^1.6.4"
+  }
+}
